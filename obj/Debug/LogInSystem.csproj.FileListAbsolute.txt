@@ -1,0 +1,8 @@
+D:\Repositories\Vs\C#\LogInSystem\bin\Debug\LogInSystem.exe.config
+D:\Repositories\Vs\C#\LogInSystem\bin\Debug\LogInSystem.exe
+D:\Repositories\Vs\C#\LogInSystem\bin\Debug\LogInSystem.pdb
+D:\Repositories\Vs\C#\LogInSystem\obj\Debug\LogInSystem.csproj.AssemblyReference.cache
+D:\Repositories\Vs\C#\LogInSystem\obj\Debug\LogInSystem.csproj.SuggestedBindingRedirects.cache
+D:\Repositories\Vs\C#\LogInSystem\obj\Debug\LogInSystem.csproj.CoreCompileInputs.cache
+D:\Repositories\Vs\C#\LogInSystem\obj\Debug\LogInSystem.exe
+D:\Repositories\Vs\C#\LogInSystem\obj\Debug\LogInSystem.pdb
